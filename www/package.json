@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/rustwasm/create-wasm-app#readme",
   "dependencies": {
+    "d3": "^5.14.2",
     "fourier": "file:../pkg"
   },
   "devDependencies": {

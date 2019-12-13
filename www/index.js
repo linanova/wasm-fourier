@@ -1,3 +1,1 @@
-import * as wasm from "hello-wasm-pack";
-
-wasm.greet();
+import * as fourier from "fourier";

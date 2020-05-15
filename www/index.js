@@ -1,4 +1,4 @@
-import * as fourier from "fourier";
+import * as fourier from "@linanova/fourier";
 import * as d3 from "d3";
 
 
